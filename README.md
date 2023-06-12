@@ -8,6 +8,7 @@ The project used the following:
   - gensim Doc2Vec
   - matplotlib
   - seaborn
+  - Flask 
 
 Distance metrics:
   - Cosine Similarity
